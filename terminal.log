@@ -1,0 +1,7 @@
+psql -U postgres
+
+\o PostgreSQL.log
+
+CREATE DATABASE gestion_utilisateurs;
+
+\c gestion_utilisateurs
