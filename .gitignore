@@ -1,0 +1,8 @@
+.github/
+TP1_-_Postgres_NodeJS_PG.pdf
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
